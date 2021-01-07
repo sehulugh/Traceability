@@ -178,10 +178,10 @@ FROM            dbo.PurchaseOrderStatus
 
 | **Column Name** | **Description** |
 | --- | --- |
-| ObjectName | Eg _ **Factory** _ |
-| KeyName | Eg _ **FactoryId** _ |
-| KeyValue | Eg _ **1** _ |
-| ValueName | Eg _ **Fiera Foods** _ |
+| ObjectName | Eg **Factory**|
+| KeyName | Eg **FactoryId** |
+| KeyValue | Eg **1** |
+| ValueName | Eg **Fiera Foods**|
 
 ## **vRelatedKeys**
 
@@ -200,11 +200,11 @@ FROM            [dbo].[VendorNotes]
 
 | **Column Name** | **Description** |
 | --- | --- |
-| ChildKeyName | Eg _ **ContactId** _ |
-| ChileKeyValue | Eg _ **4** _ |
-| ChildValueName | Eg _ **Sesugh Hulugh** _ |
-| ParentKeyName | Eg _ **VendorId** _ |
-| ParentKeyValue | Eg _ **1** _ |
+| ChildKeyName | Eg **ContactId**  |
+| ChileKeyValue | Eg **4** |
+| ChildValueName | Eg **Sesugh Hulugh**|
+| ParentKeyName | Eg **VendorId**|
+| ParentKeyValue | Eg **1** |
 
 ## **removeTrailingZeros**
 
