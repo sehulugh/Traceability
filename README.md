@@ -53,9 +53,9 @@ Table that holds the processed records showing old and new values of changed fie
 | ModelObject | Object Name |
 | KeyName | Primarykey property Name |
 | KeyValue | Primary Key value |
-| KeyName1 | Primarykey property Name for composite keys/ join tables eg _ **FactoryId** _ |
-| KeyValue1 | PrimaryKey value for composite keys/ join tables eg _ **1** _ |
-| ValueName1 | Display name for KeyValue1 eg _ **Fiera Foods** _ |
+| KeyName1 | Primarykey property Name for composite keys/ join tables eg **FactoryId** |
+| KeyValue1 | PrimaryKey value for composite keys/ join tables eg **1** |
+| ValueName1 | Display name for KeyValue1 eg **Fiera Foods** |
 | PropertyName | Name of filed that has changed |
 | OldValue | Old value, null for inserts |
 | NewValue | New value, null for inserts |
