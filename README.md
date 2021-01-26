@@ -2,7 +2,7 @@
 
 The EMS Traceability functionality captures  **create**  and  **update** actions in the EMS System and displays this information in a user friendly manner.
 
-![alt text](https://github.com/sehulugh/Traceability/blob/master/pix.png?raw=true)
+![alt text](https://github.com/sehulugh/Traceability/blob/main/pix.png?raw=true)
 
 Before every insert/update by EntityframeworkCore, data is captured and saved in a database table (AppTransactionLogs) in json format. The table below shows a summary of the database objects used to transform and save the data (in AppLoggingDetails).
 
